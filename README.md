@@ -1,6 +1,6 @@
 # CODE ADDITIONS GO BRRRR 🚀
 
-How to be a 10x Engineer in 10 easy steps.
+How to be a 1000x Engineer in 10 easy steps.
 
 1. Find someone who who thinks measuring code additions is an objective way to measure Software Engineer producitivity.
 2. `mkdir website && cd website`
